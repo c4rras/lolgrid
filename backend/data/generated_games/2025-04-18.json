@@ -1,0 +1,144 @@
+{
+  "date": "2025-04-18",
+  "rows": [
+    {
+      "label": "Demacia",
+      "field": "regions",
+      "value": "Demacia"
+    },
+    {
+      "label": "Spirit",
+      "field": "species",
+      "value": "Spirit"
+    },
+    {
+      "label": "Jungle",
+      "field": "positions",
+      "value": "Jungle"
+    }
+  ],
+  "columns": [
+    {
+      "label": "Male",
+      "field": "gender",
+      "value": "Male"
+    },
+    {
+      "label": "Top",
+      "field": "positions",
+      "value": "Top"
+    },
+    {
+      "label": "Female",
+      "field": "gender",
+      "value": "Female"
+    }
+  ],
+  "answers": {
+    "0-0": [
+      "Galio",
+      "Garen",
+      "Jarvan IV",
+      "Lucian",
+      "Sylas",
+      "Taric",
+      "Xin Zhao"
+    ],
+    "0-1": [
+      "Fiora",
+      "Garen",
+      "Kayle",
+      "Poppy",
+      "Quinn"
+    ],
+    "0-2": [
+      "Fiora",
+      "Kayle",
+      "Lux",
+      "Morgana",
+      "Poppy",
+      "Quinn",
+      "Shyvana",
+      "Sona",
+      "Vayne"
+    ],
+    "1-0": [
+      "Maokai",
+      "Nocturne",
+      "Ornn",
+      "Shaco",
+      "Tahm Kench",
+      "Volibear"
+    ],
+    "1-1": [
+      "Maokai",
+      "Ornn",
+      "Tahm Kench",
+      "Volibear"
+    ],
+    "1-2": [
+      "Anivia",
+      "Evelynn",
+      "Janna",
+      "Lillia"
+    ],
+    "2-0": [
+      "Amumu",
+      "Ekko",
+      "Gragas",
+      "Graves",
+      "Hecarim",
+      "Ivern",
+      "Jarvan IV",
+      "Jax",
+      "Karthus",
+      "Kayn",
+      "Kha'Zix",
+      "Lee Sin",
+      "Master Yi",
+      "Nocturne",
+      "Nunu & Willump",
+      "Rammus",
+      "Rengar",
+      "Shaco",
+      "Skarner",
+      "Talon",
+      "Teemo",
+      "Trundle",
+      "Udyr",
+      "Viego",
+      "Volibear",
+      "Warwick",
+      "Wukong",
+      "Xin Zhao",
+      "Zac"
+    ],
+    "2-1": [
+      "Ambessa",
+      "Gragas",
+      "Gwen",
+      "Jax",
+      "Teemo",
+      "Trundle",
+      "Volibear",
+      "Warwick",
+      "Wukong"
+    ],
+    "2-2": [
+      "Ambessa",
+      "Bel'Veth",
+      "Briar",
+      "Diana",
+      "Elise",
+      "Evelynn",
+      "Gwen",
+      "Lillia",
+      "Nidalee",
+      "Rek'Sai",
+      "Sejuani",
+      "Shyvana",
+      "Taliyah",
+      "Vi"
+    ]
+  }
+}
